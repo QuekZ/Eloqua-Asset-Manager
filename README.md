@@ -4,7 +4,7 @@
 
 ![screenshot1](https://github.com/QuekZ/Eloqua-Asset-Manager/blob/main/asset-manager-logo.png)
 
-During a one-year position as a working student and intern in Testo’s Digital Marketing department, I supported day-to-day work such as preparing and editing email campaigns, updating the website through the Storyblok CMS, and building or adapting JavaScript components, including a cooking oil calculator that shows potential cost savings.
+During a one-year position as a working student and intern in Testo’s Digital Marketing department, I supported day-to-day work such as preparing and editing email campaigns, updating the website through the Storyblok CMS, and building or adapting JavaScript components, including a cooking oil calculator, IFOV Calculator or a manual Listing Application.
 
 My biggest project was the Eloqua Asset Manager. I noticed that many workflows involved redundant, time-consuming steps that were prone to errors, so I proposed finding a better solution. After experimenting with several JavaScript libraries, I decided to work directly with the Eloqua API and built the tool in Python with the help of AI.
 
