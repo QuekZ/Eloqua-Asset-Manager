@@ -8,7 +8,15 @@ During a one-year position as a working student and intern in Testo’s Digital 
 
 My biggest project was the Eloqua Asset Manager. I noticed that many workflows involved redundant, time-consuming steps that were prone to errors, so I proposed finding a better solution. After experimenting with several JavaScript libraries, I decided to work directly with the Eloqua API and built the tool in Python with the help of AI.
 
+![Screenshot2](https://github.com/QuekZ/Eloqua-Asset-Manager/blob/main/application-screenshot1.jpg)
+
 At its core, the tool handles large-scale copy operations, for example duplicating an email into many different languages. It also adjusts names and content automatically, such as headers, salutations, footers, contact addresses and email groups, so nothing has to be fixed by hand afterwards. The same logic applies to other asset types like forms, shared filters and campaigns. Beyond copying, it supports bulk deletion, swapping individual assets in campaign flows, creating helper folders, changing email settings in bulk and splitting Excel files for translation.
+
+![Screenshot3](https://github.com/QuekZ/Eloqua-Asset-Manager/blob/main/application-screenshot2.jpg)
+
+![Screenshot4](https://github.com/QuekZ/Eloqua-Asset-Manager/blob/main/Use-Case-Diagram.png)
+
+![Screenshot5](https://github.com/QuekZ/Eloqua-Asset-Manager/blob/main/Class-Diagram.png)
 
 The Digital Marketing team now uses it to copy and edit assets quickly and reliably, especially for large-scale campaigns.
 
